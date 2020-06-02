@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6277338528156810975
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6277338528156810974}
+  - component: {fileID: 6277338528156811041}
+  m_Layer: 0
+  m_Name: Audio Manager
+  m_TagString: AudioManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6277338528156810974
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6277338528156810975}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6277338528156811041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6277338528156810975}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 832602088c3ea9b4eb2eb7e2e238fd7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  soundGroups:
+  - name: Music
+    sounds:
+    - name: Theme
+      loop: 1
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: b980c188ed6b3e540b5c42a6939c5357, type: 3}
+      maxVolume: 1
+      volume: 0.1
+      pitch: 1
+  - name: SFX
+    sounds:
+    - name: ExplosionShoot
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: df2a367626734944b92f3ea82a42c89e, type: 3}
+      - {fileID: 8300000, guid: 6b324b9cb400e2e4e8353f4d2ab35148, type: 3}
+      - {fileID: 8300000, guid: ccf523dc37583ac4fbc8117fe221331f, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: Explosion
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: f10623d8ffae9984a8418d797fa49fc6, type: 3}
+      - {fileID: 8300000, guid: 7655b42622d6a0c40829270f4bd16208, type: 3}
+      - {fileID: 8300000, guid: bbfd316ee241c9c4fab6dfde8c5deab5, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: FireballShoot
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 3e5328defa4db8b4aaa0c4ebf7154c0e, type: 3}
+      - {fileID: 8300000, guid: 9b12ca9bba77a604bae1c3ef719ee193, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: Fireball
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 8b0f4f8d62369fe419278bbd51dc6a5a, type: 3}
+      - {fileID: 8300000, guid: 863b0f30d647f7248b7f05ef8724a92d, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: HurtEnemy
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 9dc8957cab49ba44e9d281e8fa4fff79, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: HurtPlayer
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 9a5eefb3a3d794844bead3a96ec9bf47, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: LightningShoot
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: db2a574384c6aa54288e91cac4f2d3cc, type: 3}
+      maxVolume: 1
+      volume: 1
+      pitch: 1
+    - name: EvilLaugh
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 11eed3da619ff5742b0ba076297f7c11, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: Pickup
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: 6ba15ae58616df343bdb9da1922b076d, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1
+    - name: Wind
+      loop: 0
+      source: {fileID: 0}
+      clips:
+      - {fileID: 8300000, guid: fec6528082880b145a4b2b5add0e116d, type: 3}
+      maxVolume: 1
+      volume: 0.5
+      pitch: 1

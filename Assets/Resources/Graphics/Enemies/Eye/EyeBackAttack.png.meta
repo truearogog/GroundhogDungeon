@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 088df3b1efe69df4faf148d6b2e51aaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4143207670484899707
+    second: EyeBackAttack_0
+  - first:
+      213: -2084782561561850126
+    second: EyeBackAttack_1
+  - first:
+      213: -4755278308256697503
+    second: EyeBackAttack_2
+  - first:
+      213: -373795496716452770
+    second: EyeBackAttack_3
+  - first:
+      213: -5519272447800771075
+    second: EyeBackAttack_4
+  - first:
+      213: -1333190644275224630
+    second: EyeBackAttack_5
+  - first:
+      213: 4914020679675756252
+    second: EyeBackAttack_6
+  - first:
+      213: -1878951331927882962
+    second: EyeBackAttack_7
+  - first:
+      213: 6033285267530461592
+    second: EyeBackAttack_8
+  - first:
+      213: -5550875773263629993
+    second: EyeBackAttack_9
+  - first:
+      213: -6905284760922561925
+    second: EyeBackAttack_10
+  - first:
+      213: -2050488154364136415
+    second: EyeBackAttack_11
+  - first:
+      213: 4193289088178317881
+    second: EyeBackAttack_12
+  - first:
+      213: -8892717688483335760
+    second: EyeBackAttack_13
+  - first:
+      213: 2402257613546775068
+    second: EyeBackAttack_14
+  - first:
+      213: 5525422805258064890
+    second: EyeBackAttack_15
+  - first:
+      213: -8746548631628576252
+    second: EyeBackAttack_16
+  - first:
+      213: 2829493653168897990
+    second: EyeBackAttack_17
+  - first:
+      213: -8835744247377227790
+    second: EyeBackAttack_18
+  - first:
+      213: 3172545051947853209
+    second: EyeBackAttack_19
+  - first:
+      213: -3958161027584145817
+    second: EyeBackAttack_20
+  - first:
+      213: 2211794299446160904
+    second: EyeBackAttack_21
+  - first:
+      213: -8231655569787344173
+    second: EyeBackAttack_22
+  - first:
+      213: 4851464760656710345
+    second: EyeBackAttack_23
+  - first:
+      213: -1592900759935429304
+    second: EyeBackAttack_24
+  - first:
+      213: 6597489827177845863
+    second: EyeBackAttack_25
+  - first:
+      213: -1180113546630605265
+    second: EyeBackAttack_26
+  - first:
+      213: 4130673282524809103
+    second: EyeBackAttack_27
+  - first:
+      213: -1790979383431344039
+    second: EyeBackAttack_28
+  - first:
+      213: -4346893930378262318
+    second: EyeBackAttack_29
+  - first:
+      213: -7339730973182705944
+    second: EyeBackAttack_30
+  - first:
+      213: 8664626788786824105
+    second: EyeBackAttack_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EyeBackAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588e21a439e5086c0800000000000000
+      internalID: -4143207670484899707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe4d205e4d5113e0800000000000000
+      internalID: -2084782561561850126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633d3cb29bd10eb0800000000000000
+      internalID: -4755278308256697503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3397e9f200daf0800000000000000
+      internalID: -373795496716452770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdfb3a73fa9763b0800000000000000
+      internalID: -5519272447800771075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfd91e2c2e8f7de0800000000000000
+      internalID: -1333190644275224630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde3ff6c5cb123440800000000000000
+      internalID: 4914020679675756252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBackAttack_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23013ef7bf9ce5e0800000000000000
+      internalID: -1878951331927882962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

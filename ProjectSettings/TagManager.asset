@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - AudioManager
+  - DamageManager
+  - ScoreManager
+  - HealingPickup
+  - EnemySpawnManager
+  - EvilSpawnManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Pickable
+  - DamageParticle
+  - DamageProjectile
+  - Staff
+  - Player
+  - EnemyProjectile
+  - EnemyProjectileCollider
+  - GroundEnemy
+  - FlyingEnemy
+  - DamageArea
+  - EnemyDamageArea
+  - WallCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
